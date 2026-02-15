@@ -32,5 +32,5 @@ Use /stasis and start binding lodestones to fishing rods 🎣🪨
 
 📄 Author & Use
 
-Plugin by Gegi Metreveli 💥
+Plugin by Metro 💥
 You can freely use this plugin on your servers. Re-uploading or claiming as your own is not allowed.
