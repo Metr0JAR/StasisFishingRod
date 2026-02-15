@@ -1,53 +1,36 @@
 StasisPlugin 💣🎣✨
 
-Minecraft Paper 1.21 Plugin – Turn lodestones and fishing rods into your personal teleportation system! 🧭🚀
+Bind your fishing rods to lodestones and teleport anywhere in the world! 🌍🚀
+Fishing rods glow when synced, and each rod can be linked to its own lodestone. Break the lodestone? The rod loses its connection ❌. Perfect for survival, adventure, or just teleportation fun! 🎉
 
-Description
+🚀 Features 🌟
 
-StasisPlugin lets players bind fishing rods to lodestones and teleport anywhere in the world 🌍. Each fishing rod can be synced to a lodestone, so you can have multiple teleport anchors! Perfect for adventure maps, survival servers, or just for fun 😎.
+/stasis ✨ → Make a lodestone glow and ready to be bound
 
-Features ⭐
+Right-click a lodestone with a fishing rod 🎣 → Bind rod to lodestone
 
-/stasis command: Makes a lodestone glow like it’s enchanted ✨
+Teleport anywhere 🌌 using the synced fishing rod
 
-Bind fishing rods to lodestones: Right-click a placed lodestone with a fishing rod 🎣➡️🪨
+Multiple lodestones & rods supported 🔗
 
-Glow effect: Synced fishing rods glow to show which lodestone they’re linked to 💡
+Glow effect on synced rods 💡
 
-Teleport anywhere: Right-click with the synced fishing rod to teleport back 🏃‍♂️💨
+Cooldown ⏱️ with particles 💫 and sound 🔊
 
-Multiple lodestones & rods supported: Each rod can be bound to its own lodestone 🔗
+Broken lodestone detection ❌ → Rod loses sync
 
-Cooldown system: Prevents spam ⏱️, with particle effects 💫 and sounds 🔊
+📜 Commands
+Command	Description
+/stasis	✨ Enable a lodestone for stasis teleportation
+⚡ Installation
 
-Broken lodestone detection: If the lodestone is broken, the rod loses its sync ❌
+Download the latest JAR and place it in your server’s plugins folder 📥
 
-Usage 📝
+Start or restart your Paper server 🔄
 
-Hold a lodestone and run /stasis – it will glow ✨
+Use /stasis and start binding lodestones to fishing rods 🎣🪨
 
-Place the lodestone in the world 🪨
+📄 Author & Use
 
-Hold a fishing rod and right-click the lodestone to bind it 🎣
-
-Anywhere in the world, right-click with the synced fishing rod to teleport back 🌍🚀
-
-Notes ⚠️
-
-Each fishing rod can only be synced to one lodestone 🎯
-
-If the lodestone is broken, the rod can no longer teleport ❌
-
-Works over any distance in the world 🌌
-
-Installation 🛠️
-
-Download the JAR and place it in your server’s plugins folder 📂
-
-Start or reload the server 🔄
-
-Use /stasis to start binding lodestones to fishing rods 🎣🪨
-
-License 📜
-
-MIT License – Free to use and modify 😁
+Plugin by Gegi Metreveli 💥
+You can freely use this plugin on your servers. Re-uploading or claiming as your own is not allowed.
