@@ -1,5 +1,5 @@
-[![Modrinth](https://img.shields.io/badge/Modrinth-StasisPlugin-brightgreen)](https://modrinth.com/plugin/stasisplugin)
-# StasisPlugin 💣🎣✨
+[![Modrinth](https://img.shields.io/badge/Modrinth-StasisPlugin-brightgreen)](https://modrinth.com/plugin/stasisfishingrod)
+# StasisFishingRod 💣🎣✨
 
 Bind your **fishing rods** to **lodestones** and **teleport anywhere in the world**! 🌍🚀  
 Right-click a **lodestone** with a **rod** to **sync it** — the **rod glows** to show it’s ready. Then, anywhere, right-click with that **rod** to **teleport back**! Break the **lodestone** and the **rod loses its connection** ❌. **Multiple rods + lodestones supported** 🎉  
