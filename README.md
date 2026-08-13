@@ -1,4 +1,9 @@
 [![Modrinth](https://img.shields.io/badge/Modrinth-StasisPlugin-brightgreen)](https://modrinth.com/plugin/stasisfishingrod)
+## 💬 Support
+
+Found a bug or need help? [Join the Discord](https://discord.gg/ZYPbDzf7Sc) to report it.
+
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/ZYPbDzf7Sc)
 # StasisFishingRod 💣🎣✨
 
 Bind your **fishing rods** to **lodestones** and **teleport anywhere in the world**! 🌍🚀  
